@@ -1,0 +1,148 @@
+{
+  "events": [
+    {
+      "start_date": {"year": "1654"},
+      "text": {
+        "headline": "Pascal & Fermat — Foundations of Probability",
+        "text": "Pascal and Fermat laid the groundwork for probability theory, formalizing ideas about chance and risk."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Blaise_Pascal_2.jpg",
+        "caption": "Blaise Pascal",
+        "credit": "Wikimedia Commons"
+      }
+    },
+    {
+      "start_date": {"year": "1713"},
+      "text": {
+        "headline": "Jakob Bernoulli publishes Ars Conjectandi",
+        "text": "Introduces the Law of Large Numbers, one of the earliest formal results in probability theory."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ars_Conjectandi_Bernoulli.jpg",
+        "caption": "Ars Conjectandi by Jakob Bernoulli",
+        "credit": "Wikimedia Commons"
+      }
+    },
+    {
+      "start_date": {"year": "1763"},
+      "text": {
+        "headline": "Thomas Bayes publishes Bayes’ Theorem",
+        "text": "Bayes’ Theorem provides a foundation for probabilistic inference, crucial for later AI and machine learning."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Thomas_Bayes_by_Joseph_Threepwood.jpg",
+        "caption": "Thomas Bayes",
+        "credit": "Wikimedia Commons"
+      }
+    },
+    {
+      "start_date": {"year": "1805"},
+      "text": {
+        "headline": "Legendre & Gauss develop Least Squares",
+        "text": "Least squares method becomes the basis for regression analysis and statistical estimation."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Carl_Friedrich_Gauss_1777-1855.jpg",
+        "caption": "Carl Friedrich Gauss",
+        "credit": "Wikimedia Commons"
+      }
+    },
+    {
+      "start_date": {"year": "1900"},
+      "text": {
+        "headline": "Ronald A. Fisher develops likelihood and experimental design",
+        "text": "Fisher’s work formalized statistical inference and experimental methodology, foundational for modern statistics."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/R_A_Fisher.jpg",
+        "caption": "Ronald A. Fisher",
+        "credit": "Wikimedia Commons"
+      }
+    },
+    {
+      "start_date": {"year": "1940"},
+      "text": {
+        "headline": "Monte Carlo Methods (Ulam, von Neumann)",
+        "text": "Randomized algorithms for numerical simulation, bridging statistics and computational AI."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/MonteCarlo_illustration.png",
+        "caption": "Monte Carlo simulation illustration",
+        "credit": "Wikimedia Commons"
+      }
+    },
+    {
+      "start_date": {"year": "1950"},
+      "text": {
+        "headline": "EM Algorithm",
+        "text": "Algorithm for maximum likelihood estimation with incomplete data, widely used in statistical learning."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/EM_algorithm_graphical_model.png",
+        "caption": "EM algorithm graphical model",
+        "credit": "Wikimedia Commons"
+      }
+    },
+    {
+      "start_date": {"year": "1960"},
+      "text": {
+        "headline": "Linear & Logistic Regression become computational",
+        "text": "Regression methods widely adopted for predictive modeling and statistical inference."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Linear_regression.svg",
+        "caption": "Linear regression example",
+        "credit": "Wikimedia Commons"
+      }
+    },
+    {
+      "start_date": {"year": "1980"},
+      "text": {
+        "headline": "Bayesian Networks formalized",
+        "text": "Probabilistic graphical models allow representation of conditional dependencies between variables."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bayesian_network_example.png",
+        "caption": "Simple Bayesian network example",
+        "credit": "Wikimedia Commons"
+      }
+    },
+    {
+      "start_date": {"year": "1990"},
+      "text": {
+        "headline": "Ensemble Methods (Bagging & Boosting)",
+        "text": "Combine multiple models to improve predictive accuracy and reduce variance."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Random_forest_diagram_complete.png",
+        "caption": "Random forest (ensemble method)",
+        "credit": "Wikimedia Commons"
+      }
+    },
+    {
+      "start_date": {"year": "2000"},
+      "text": {
+        "headline": "Support Vector Machines",
+        "text": "Applies statistical learning theory to find optimal separating hyperplanes for classification problems."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Svm_max_sep_hyperplane_with_margin.png",
+        "caption": "SVM max-margin hyperplane",
+        "credit": "Wikimedia Commons"
+      }
+    },
+    {
+      "start_date": {"year": "2010"},
+      "text": {
+        "headline": "Deep Learning / Neural Networks",
+        "text": "Large-scale statistical models for AI and ML, powered by big data and computational advances."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Deep_learning.png",
+        "caption": "Deep learning architecture",
+        "credit": "Wikimedia Commons"
+      }
+    }
+  ]
+}
